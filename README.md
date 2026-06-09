@@ -6,8 +6,8 @@
 
 *Turning complex problems into clean, scalable solutions*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/santiago-zapata-rendon/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://szapatar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-zapata-rendon/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szapatar08)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.santizapata@gmail.com)
 
 </div>
@@ -19,9 +19,9 @@
 I'm a passionate full-stack developer with hands-on experience across the entire software lifecycle — from architecting robust backends and designing APIs to shipping polished frontends. I thrive in environments where technical depth meets product thinking.
 
 - 🔭 Currently building production-grade **SaaS platforms** with microservices architecture
-- 🌱 Deepening expertise in **cloud-native infrastructure** and **distributed systems**
-- 💡 Strong background in **fintech and crypto domains**
-- 🤝 Collaborative team player with experience working in cross-functional squads
+- 🤖 Working at the intersection of **AI and software engineering**
+- 💡 Strong background in **fintech, crypto, and AI-powered applications**
+- 🤝 Collaborative team player with experience in cross-functional squads
 - 📍 Based in **Medellín, Colombia** — open to remote opportunities worldwide
 
 ---
@@ -43,29 +43,29 @@ I'm a passionate full-stack developer with hands-on experience across the entire
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Data & Infrastructure
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=apachekafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Crypto Copilot
-> SaaS platform delivering AI-powered crypto analysis based on Smart Money Concepts (SMC/ICT) methodology
+### 🎟️ [NovaPass API](https://github.com/EstelarRiwi/NovaPass_API)
+> Theatre ticketing & event management REST API — production-ready with full CI/CD pipeline
 
-**Stack:** Node.js · React · Python · Docker · Microservices  
-**Highlights:** Real-time market signal detection, institutional-grade technical analysis, multi-tenant SaaS architecture
+**Stack:** C# · ASP.NET Core 10 · PostgreSQL · Docker · GitHub Actions · JWT · Google OAuth2  
+**Architecture:** Multi-role system (customer / admin / seller / scanner), JWT blacklist-based revocation, rate limiting, n8n workflow automation, automated deploy to VPS via GitHub Actions → ghcr.io
 
 ---
 
-### 🏗️ DevTrust
-> Global platform for technical skills verification, professional reputation, and developer credentialing
+### 🛡️ [Poison AI](https://github.com/Riwi-io-Medellin/poison-ia-integrative-project-mccarthy)
+> AI training data security platform — detects contaminated, backdoored, or adversarially poisoned datasets before they reach production models
 
-**Stack:** C# .NET · React · SQL · Docker  
-**Highlights:** Tamper-proof skill credentials, distributed verification system, comprehensive developer reputation engine
+**Stack:** Python · PyTorch · HuggingFace Transformers · PEFT · NumPy · scikit-learn · JavaScript · Docker  
+**How it works:** Fine-tunes small models (250M params) in isolated sandboxes on user-provided data, then analyzes model weights, data loss, and label disparity to surface poisoned samples — all without network access from the sandbox
 
 ---
 
@@ -85,12 +85,13 @@ I'm a passionate full-stack developer with hands-on experience across the entire
 
 | Skill Area | Experience |
 |---|---|
-| **API Design & REST** | Designing clean, versioned, documented APIs consumed by web and mobile clients |
-| **Microservices** | Breaking monoliths into decoupled services with Docker, message queues, and API gateways |
-| **Database Architecture** | Schema design, query optimization, and migrations across SQL databases |
-| **Frontend Development** | Building responsive UIs in React with solid component architecture |
-| **CI/CD & DevOps** | Docker-based workflows, environment parity, deployment pipelines |
-| **Team Collaboration** | Working in small, fast-moving squads with Agile practices |
+| **API Design & REST** | Clean, versioned, documented APIs — including JWT auth, OAuth2, rate limiting, and multi-role access control |
+| **Backend Architecture** | From monoliths to microservices, with Docker, message queues, and proper separation of concerns |
+| **Database Design** | Schema design, query optimization, and multi-DB setups (PostgreSQL + MongoDB in the same project) |
+| **Frontend Development** | Responsive React UIs with solid component architecture and TypeScript |
+| **CI/CD & DevOps** | GitHub Actions pipelines, container registry deploys, VPS automation via SSH |
+| **AI Integration** | Connecting LLMs and ML models into real products — both as API consumers and as infrastructure builders |
+| **Team Collaboration** | Small, fast-moving squads with Agile practices and shared code ownership |
 
 ---
 
@@ -98,13 +99,13 @@ I'm a passionate full-stack developer with hands-on experience across the entire
 
 I'm actively looking for challenging roles where I can contribute from day one — whether as a **Backend Engineer**, **Full Stack Developer**, or **Software Architect**.
 
-If you're building something ambitious, I'd love to talk.
+If you're building something ambitious, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-zapata-rendon/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.santizapata@gmail.com)
+[![Email](https://img.shields.io/badge/dev.santizapata@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.santizapata@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Open to full-time, contract, and remote opportunities</sub>
+  <sub>Open to full-time, contract, and remote opportunities · Medellín, Colombia 🇨🇴</sub>
 </div>
