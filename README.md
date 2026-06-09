@@ -104,14 +104,6 @@ Platform that detects poisoned, backdoored, or adversarially contaminated AI tra
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szapatar08/szapatar08/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szapatar08/szapatar08/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/szapatar08/szapatar08/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szapatar08&layout=compact&hide_border=true&theme=default)
 
 </div>
